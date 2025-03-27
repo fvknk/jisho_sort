@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name              = 'jisho_sort'
-  s.version           = '0.0.3'
+  s.version           = '0.0.4'
   s.summary           = 'Sort Japanese letters in dictionary order.'
   s.files             = Dir['{lib}/**/*.rb', 'bin/*', 'LICENSE', '*.md']
   s.require_path      = 'lib'
-  s.authors           = ['fvknk']
+  s.authors           = ['fvknk97034']
   s.homepage          = 'https://github.com/fvknk'
   s.description       = 'Sort Japanese letters, including Chinese letters, in dictionary order.'
 
